@@ -7,3 +7,6 @@ deploy/*
 *.cache
 TestResults/
 packages/
+/.vs/AppHarbor.TransformTester
+/Backup
+/UpgradeLog.htm
